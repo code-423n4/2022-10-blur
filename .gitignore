@@ -102,3 +102,18 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+contracts/**/*.json
+
+node_modules
+.env
+
+#Hardhat files
+cache
+artifacts
+deployments
+yarn-error.log
+slither.db.json
+coverage
+coverage.json

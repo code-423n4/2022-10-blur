@@ -4,9 +4,10 @@
   "author": "Blur",
   "license": "MIT",
   "scripts": {
+    "setup": "cp .env.example .env",
     "compile": "hardhat compile",
     "coverage": "hardhat coverage",
-    "test": "hardhat test"
+    "test": "REPORT_GAS=true hardhat test"
   },
   "devDependencies": {
     "@codechecks/client": "^0.1.11",

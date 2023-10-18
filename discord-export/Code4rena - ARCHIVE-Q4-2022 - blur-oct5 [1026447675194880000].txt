@@ -1,0 +1,1776 @@
+==============================================================
+Guild: Code4rena
+Channel: ARCHIVE-Q4-2022 / blur-oct5
+==============================================================
+
+[10/03/2022 11:01] cloudellie (pinned)
+👋 Hello and welcome to the contest channel for the $50K USDC Blur Exchange contest!
+
+📆 Contest opens Wednesday, 05 October 2022 20:00 and runs through Monday, 10 October 2022 20:00 (20:00 UTC) - 5 days total.
+
+Please give a warm welcome to @toad from the Blur Exchange team, who will be available for questions either here in the channel or via DM.
+
+We'll be posting relevant links, documentation, etc. here, so if you intend to participate in this contest, consider enabling notifications for this channel. 🐺 ⏰
+
+Contest Page: https://code4rena.com/contests/2022-10-blur-exchange-contest
+
+{Embed}
+https://code4rena.com/contests/2022-10-blur-exchange-contest
+Code4rena Blur Exchange contest
+$50,000 USDC
+3 October 2022—8 October 2022
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/C4-banner-7C19B.png
+
+{Reactions}
+🅱️ (10) 🇱 (11) 🇺 (10) 🇷 (11) 🇸 (7) 🇴 (7) 🆖 (6) 2️⃣ (5) 
+
+[10/03/2022 11:54] road220
+live? 🙂
+
+{Attachments}
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/Screenshot_from_2022-10-03_14-54-40-F5FEA.png
+
+
+[10/03/2022 12:02] rohan16
+No it states that it will start within 8 hrs
+
+
+[10/03/2022 12:58] road220
+I know, the live mark confuses a bit )
+
+
+[10/03/2022 14:37] CRYP70#8985
+👋
+
+
+[10/03/2022 14:37] CRYP70#8985
+glhf
+
+
+[10/03/2022 16:01] dravee
+@kartoonjoy , alerting you on what seems like a bug 🙂
+
+
+[10/03/2022 16:03] itsmetechjay
+Thanks for the heads up. We have flagged for our devs.
+
+
+[10/03/2022 17:04] neko_nyaa
+Contest hasn't begun and already a finding :thonk:
+
+{Reactions}
+🤣 (15) 
+
+[10/03/2022 17:18] cloudellie
+Hi all - apologies for the late notice, but we need to delay the launch for this contest. New launch date is Wednesday!
+
+{Reactions}
+👆 (6) 
+
+[10/03/2022 17:41] Franfran#5067
+Looks fun! gl friends
+
+
+[10/03/2022 17:55] tofunmi
+Increased by 2 days
+
+
+[10/03/2022 17:55] tofunmi
+The timer is an upgradeable proxy contract 😂😂
+
+{Reactions}
+😂 (27) 
+
+[10/03/2022 19:48] Franfran#5067
+😦
+
+
+[10/03/2022 19:55] aviggiano
+sad, I was hoping I'd start working on it today
+
+
+[10/03/2022 19:55] aviggiano
+see yall on Wednesday then!
+
+
+[10/03/2022 20:27] supernovahs
+2 days postponed. Time to learn some solidity alpha
+
+{Reactions}
+👍 (3) 
+
+[10/04/2022 13:55] kartoonjoy
+Pinned a message.
+
+
+[10/05/2022 20:36] toad#4695
+Hey everyone, I'm from the Blur team, happy to answer any questions. Feel fee to ping me in here or in dms.
+
+{Reactions}
+❤️ (22) 🍺 (4) 
+
+[10/05/2022 20:41] aviggiano
+`yarn compile` issues
+
+
+[10/06/2022 00:10] carlitox477
+I've just sent you a friend request to ask you sth
+
+
+[10/06/2022 05:30] 0xRobocop#3994
+Hi sir, just sent dm
+
+
+[10/06/2022 08:15] gosoul22
+@toad  any docs?
+
+{Reactions}
+🧐 (2) 
+
+[10/06/2022 08:35] supernovahs
+SEnt DM
+
+
+[10/06/2022 09:35] trust90
+I like the project, it's a dumbed down version of OpenSea. Much easier to interface with using smart contracts.
+
+{Reactions}
+☝️ (8) 
+
+[10/06/2022 11:36] jayphbee
+@toad Are the deployed addresses available ?
+
+
+[10/06/2022 12:06] supernovahs
+@toad what's your timezone?
+
+
+[10/06/2022 13:47] elku.cryptos
+Is there any other documentation or project website to understand the project more?
+
+
+[10/06/2022 14:23] exd0tpy
+I think need more information about code base 😂
+
+
+[10/06/2022 15:55] toad#4695
+I'm PST
+
+
+[10/06/2022 15:56] toad#4695
+Nothing is deployed publicly yet
+
+
+[10/06/2022 15:59] toad#4695
+@soul22 @ElKu @PENGUN Unfortunately, all we have up is our waitlist at the moment, sorry. I've tried to break down some of the concepts in the README, but please let me know if anything needs a better explanation
+
+{Reactions}
+catVibrate 
+
+[10/06/2022 16:49] 0xmatt#3768
+Hi @toad can I dm a question?
+
+
+[10/06/2022 17:19] toad#4695
+Yep!
+
+
+[10/06/2022 17:53] yongkiws
+Hello good night
+
+{Reactions}
+😅 
+
+[10/06/2022 20:33] rustyrabbit
+Can you explain the `blockRange` regarding the oracle a bit more?
+
+
+[10/06/2022 20:48] rustyrabbit
+nvm I think I get it now.
+
+
+[10/06/2022 23:20] aviggiano
+I have a question: is the `FeeMechanism` implemented somewhere? has it been deprecated, or is it just out of scope? I see some references to it on the `scripts/deploy.ts` file, but can't find it anywhere
+
+
+[10/07/2022 02:05] toad#4695
+Yes, that’s deprecated
+
+{Reactions}
+👍 
+
+[10/07/2022 02:06] toad#4695
+Sorry I missed this, let me know if an explanation would still be helpful
+
+{Reactions}
+👍 
+
+[10/07/2022 07:56] exd0tpy
+@toad Sent DM
+
+
+[10/07/2022 09:50] enckrish
+@toad DM'd you
+
+
+[10/07/2022 14:13] aga7hokakological
+yes plz
+
+
+[10/07/2022 16:22] toad#4695
+If a maker opts in to oracle cancellations, their order requires a recent oracle signature in order to be executed. So when a taker attempts to match their order, they have to request our oracle for a valid signature at the current block number. Assuming the maker hasn’t cancelled, the oracle will give a signature, but due to latency, low gas priority, etc the transaction may not get executed until block n+1, n+2,… So the block range just gives extra buffer for the oracle signature to be valid even if a few blocks have passed
+
+{Reactions}
+🤯 (6) 
+
+[10/07/2022 17:40] trustminimised
+Do you have an idea of what the typical blockrange value will be in production?
+
+
+[10/07/2022 17:43] mathewthomas_
+Hi, Can some one give a link to the white paper of Blur Exchange, please?
+
+
+[10/07/2022 17:50] toad#4695
+The signature should only need to be live for a few minutes so I'd say around the order of 10
+
+
+[10/07/2022 17:50] toad#4695
+Unfortunately, we don't have a whitepaper yet
+
+
+[10/07/2022 17:51] trust90
+The ERC1967Proxy implementation will only be used for BlurExchange?
+
+
+[10/07/2022 17:51] toad#4695
+Correct
+
+
+[10/07/2022 17:52] mathewthomas_
+Thank you for the reply. Do you have link to get more information about the project?
+
+
+[10/07/2022 17:52] toad#4695
+Everything we have available is in the README
+
+
+[10/07/2022 17:53] mathewthomas_
+Ok. Thank you.
+
+
+[10/07/2022 18:38] arcoun.
+Why are there two methods (one for ask, the other for bid) in IMatchingPolicy? Standard implementations are the same. What differences can an implementation do between ask and bid?
+
+{Reactions}
+👍 
+
+[10/07/2022 19:32] toad#4695
+There are possible matching policies we would like to add in the future that would operate differently depending on if the seller is the maker or the taker
+
+
+[10/07/2022 21:34] cryptphi
+how are orders created?
+
+
+[10/07/2022 21:39] toad#4695
+We have a live orderbook storing listings and users can find listings and produce matching taker orders to execute
+
+{Reactions}
+👍 
+
+[10/08/2022 05:21] rustyrabbit
+can you give some examples of matching policies you're thinking of. Just to see what impact they could have on the current code.
+
+{Reactions}
+👍🏻 
+
+[10/08/2022 11:22] trtrth
+@toad who will call `execute` ? is seller or buyer ?
+
+
+[10/08/2022 12:17] enckrish
+Seeing the implementation, it seems anyone can call it
+
+{Reactions}
+👆 (2) 
+
+[10/08/2022 13:36] ladboy233
+👍
+
+
+[10/08/2022 17:35] koolexc
+@toad Do you have a diagram where it shows how is the UX ? I'm interested in how's the flow of trading.
+
+
+[10/08/2022 18:11] Franfran#5067
+what's the exact use of bulk signatures ?
+
+
+[10/08/2022 18:47] toad#4695
+@RustyRabbit  A couple we have considered are collection bids and trait bids. For collection bids the buyer just wants to match a sell with a matching collection address. For trait bids we’d have to create merkle trees for different traits. The buyer would include the root hash in extraParams to specify the trait tree and the seller would put a merkle proof in extraParams to prove their token is in the trait tree
+
+
+[10/08/2022 18:48] toad#4695
+Yes anyone can call it, as long as it has the appropriate signatures
+
+{Reactions}
+C4Keycap ✅ 
+
+[10/08/2022 18:49] toad#4695
+Bulk listing allows users to authorize multiple listings with one signature, instead of having to resign each one
+
+{Reactions}
+👍 (2) 
+
+[10/08/2022 18:50] Franfran#5067
+Thanks 🙏
+
+
+[10/08/2022 18:50] toad#4695
+Sorry, I don’t think I have anything I can provide, but the marketplace is functionally very similar to x2y2, looksrare
+
+{Reactions}
+👌🏻 (2) 
+
+[10/08/2022 18:51] koolexc
+Thank you!
+
+
+[10/08/2022 20:30] nofig.eth
+hi @toad just send you DM
+
+
+[10/08/2022 21:08] koolexc
+Can you please elaborate more on this? like giving an example ?
+
+
+[10/08/2022 21:25] trustminimised
+@toad Do you have any examples of how `Order.extraParams` will be used?
+
+
+[10/08/2022 21:46] Franfran#5067
+@trustminimised
+
+
+[10/08/2022 21:47] trustminimised
+Is that not `extraSignature` from the `Input` struct?
+
+
+[10/08/2022 21:47] Franfran#5067
+Similar to Opensea, there is an orderbook which means that sellers and buyers will place orders by signing a message containing the order. This order book is stored off chain and they are matched on chain with `execute`
+
+{Reactions}
+👍🏻 (6) 
+
+[10/08/2022 21:48] Franfran#5067
+Ah yeah sorry :/
+
+
+[10/08/2022 21:49] Franfran#5067
+Maybe it's for later policies ? Let the master answer
+
+
+[10/08/2022 21:52] trustminimised
+> The buyer would include the root hash in extraParams to specify the trait tree and the seller would put a merkle proof in extraParams to prove their token is in the trait tree 
+Looks like it was gone over a bit above.
+
+
+[10/08/2022 21:52] trustminimised
+So basically later flexibility.
+
+
+[10/08/2022 21:53] koolexc
+Thanks buddy!
+
+{Reactions}
+hi5 
+
+[10/09/2022 01:37] adriro
+hey @toad just sent a dm
+
+
+[10/09/2022 03:57] toad#4695
+Exactly, not currently used, but an optional parameter that could be used in future matching policies
+
+
+[10/09/2022 06:18] penguin4238
+really like the design for ExecutionDelegate
+
+
+[10/09/2022 06:51] penguin4238
+but is there a default value for revokedApproval[msg.sender]? in case a user has never grant or revoke approve for this contract @toad
+
+
+[10/09/2022 07:17] dinesh11g
+hi
+
+
+[10/09/2022 07:31] Franfran#5067
+It's false by default https://docs.soliditylang.org/en/v0.8.16/control-structures.html#scoping-and-declarations
+
+
+[10/09/2022 07:36] koolexc
+What's the idea of having 'execute' public? I'm aware that anyone can call it. but what's the mechanism used to run the exchange? maybe a schedular to pick orders and match?
+
+
+[10/09/2022 08:13] penguin4238
+nope, i have written a test case, the test case failed if we do not grant at first
+
+{Reactions}
+💯 
+
+[10/09/2022 08:19] dinesh11g
+how many got bugs?
+
+
+[10/09/2022 08:24] Franfran#5067
+it's false by default, as a matter of fact in the transfer functions in the Delegate it's checking if the revoking is indeed false
+
+
+[10/09/2022 08:38] penguin4238
+yeah, that the case
+
+
+[10/09/2022 08:38] Franfran#5067
+So, you don't need to grant it first
+
+
+[10/09/2022 08:38] Franfran#5067
+it should work as is
+
+
+[10/09/2022 08:50] rustyrabbit
+I think maybe the term `revokeApproval()` could be misleading in this case. Maybe @penguin means the user still has to approve the `ExecutionDelagate.sol`  on the NFT. 
+`grantApproval()` and `revokedApproval()` is something you execute on the `ExecutionDelagate.sol` and has to be seen more as a way for a user to tell the `ExecutionDelagate.sol` contract not to use __any__ of the  `msg.sender`'s NFTs, even the ones that still have an approval set for `ExecutionDelagate.sol`. It's sort of an "override all approvals" function.
+
+
+[10/09/2022 09:17] penguin4238
+yeah, my fault, the test case has been affected by previous case
+
+
+[10/09/2022 09:40] saksham#7993
+Noob question but do you guys use some sort of pre built templates for gas and QA stuff cause writing similar cases and stuff again and again for different contest seems a headache
+
+{Reactions}
+👍 
+
+[10/09/2022 10:26] PaludoX0#9748
+Hi Toad, since it's deprecated  how do you intend to set fees?
+
+
+[10/09/2022 10:47] jayphbee
+There is `Fee` struct
+
+{Reactions}
+👍🏻 
+
+[10/09/2022 12:58] teawaterwire
+code is very clean, i'm struggling to find anything 😅
+
+{Reactions}
+same (4) ☝️ 
+
+[10/09/2022 13:51] rustyrabbit
+@toad sent a DM
+
+
+[10/09/2022 14:10] penguin4238
+hi @toad a question about _validateSignatures, it seems that if im the order's trader, it always shortcut and return true. Lets say a case  has the expirationTime set to 0 and then the order owner canceled the oracle offchian, however, the order's trader can still operate the order?
+
+
+[10/09/2022 16:17] 0xmatt#3768
+There are two orders being executed, sell.order and buy.order. You can change sell.order and buy.order values like sell.order.trader == msg.sender but you effectively become the seller and transfers act as though you're the seller - ie draw money from the buyer (you) to seller (also you), transfer token from seller (you) to buyer (also you)
+
+{Reactions}
+👍 (2) 
+
+[10/09/2022 16:53] devabdee
+pls check DM mate
+
+
+[10/09/2022 18:14] 0xsmartcontract
+I've been trying for the finding entry for about 2 hours, but I'm getting the same error, could it be a general problem?
+
+{Attachments}
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/Ekran_Resmi_2022-10-09_21.11.57-45E06.png
+
+
+[10/09/2022 19:34] toad#4695
+Fees are put in the sell order
+
+
+[10/09/2022 19:41] toad#4695
+Hm let me check if there’s something wrong
+
+
+[10/09/2022 19:42] toad#4695
+Looks like all the questions have been answered with some help from other wardens 🙏🏻 please let me know if there’s any that I’ve missed
+
+
+[10/09/2022 19:45] Franfran#5067
+seem to be working
+
+
+[10/09/2022 21:37] Franfran#5067
+Sus
+
+
+[10/09/2022 22:03] penguin4238
+yeah, but i mean it the trade does has to be the seller or buyer, it could be a third-party address assign by the seller or buyer i suppose. If this is the case, then i dnt know how order owner cancel the oracle offchian, but i still feel it is possible to make misunderstanding here, wat is ur opinion? @toad
+
+
+[10/09/2022 22:24] Franfran#5067
+It doesn't matter if the user executes his own order because it's arbitrary data, but it would if other users could
+
+
+[10/09/2022 22:27] toad#4695
+Right, if the trader is executing the order no signature is needed. Even if they previously had a signed order that the cancelled through the oracle system, because they could easily just set the expirationTime to something 15 minutes in the future and the result would be the same
+
+{Reactions}
+👍 (2) 
+
+[10/09/2022 22:39] koolexc
+@toad 
+Please check your DM.
+
+
+[10/10/2022 10:05] dinesh11g
+when will blur declare winners?
+
+
+[10/10/2022 10:21] dinesh11g
+@CloudEllie - away add me
+
+
+[10/10/2022 10:24] cloudellie
+This contest is still active. If you have general questions about how Code4rena works, please read the docs (https://docs.code4rena.com) and then you can ask questions in #❓questions  or #😃chat. 
+
+C4 staff do not respond to DMs.
+
+{Reactions}
+✅ 
+
+[10/10/2022 13:16] rustyrabbit
+Anyone else having problems submitting findings. Was working fine, then all of a sudden nothing. Logged out; trying to log back in again and doesn't seem to work (walletConnect)
+
+
+[10/10/2022 13:20] rustyrabbit
+seems to be at my end, other browser works now.
+
+{Reactions}
+🥳 👍 
+
+[10/10/2022 19:02] 0x_serial_coder
+Hi all, I'm new to this platform. I submitted my findings already and got email notifications. However, I cannot see my findings on the web. Is this the usual situation?
+
+
+[10/10/2022 19:07] rustyrabbit
+DO you see the 'findings' tab beside the detail:
+
+{Attachments}
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/unknown-67E5F.png
+
+
+[10/10/2022 19:09] 0x_serial_coder
+No, it shows this message: "No findings submitted for this contest" but I got all email notifications.
+
+
+[10/10/2022 19:11] oboembus
+Same here, I still saw them earlier today. But they are now gone
+
+
+[10/10/2022 19:12] Aeros#7185
+I am having trouble logging in as well. The website does not seem to let me do so via MetaMask signing or using the manual sign in.
+
+
+[10/10/2022 19:14] rustyrabbit
+I was having trouble earlier as well. I think they're working on the platform.
+
+
+[10/10/2022 19:15] rustyrabbit
+Try to log out, clear cache and log in again, that seemed to work for me.
+
+
+[10/10/2022 19:22] oboembus
+Still no luck here
+
+
+[10/10/2022 19:52] saksham#7993
+Same , wanted to add a couple things in QA report and now I cant edit
+
+
+[10/10/2022 19:57] trustminimised
+I submitted findings yesterday, and clicking the "Findings" tab shows `No findings submitted for this contest`
+I have the emails I got from the submissions
+
+
+[10/10/2022 20:00] saksham#7993
+yeah seems like everyone is facing this
+
+
+[10/10/2022 20:02] C4
+**🚨 CONTEST ALERT**
+
+@🐺wardens  The **Blur Exchange** contest is now closed! Huge thanks to everyone who participated 🔍, whether you submitted a finding or not.
+
+**What's next:** The sponsor team and judge will review the findings over the next couple of weeks. Keep an eye on #📢announcements for regular updates on how the contest is progressing through awarding 🤑🏆, judging 🧑‍⚖️ and reporting 📜. Feel free to ping a contest administrator if you have questions along the way!
+
+{Reactions}
+👍 (12) C4Keycap (2) 
+
+[10/10/2022 20:02] Aeros#7185
+Hope the platform issues get fixed soon.
+
+
+[10/10/2022 20:03] Aeros#7185
+Very well written codebase Blur team 👏
+
+{Reactions}
+👍 (7) 
+
+[10/10/2022 20:03] trustminimised
+Indeed. This was only my second contest, but the code was easy to read through.
+
+{Reactions}
+👍 
+
+[10/10/2022 20:04] saksham#7993
+This was my first contest , hoping for the best !
+
+{Reactions}
+👍 
+
+[10/10/2022 20:05] 0x_serial_coder
+This was also my first contest :hi5:
+
+{Reactions}
+C4Keycap (3) 
+
+[10/10/2022 20:12] pedr02b2
+ah ok i see the findings bug has been picked up all three of my reports are gone lol
+
+
+[10/10/2022 20:15] pedr02b2
+ive popped a message backstage as everyone is away today
+
+{Reactions}
+thankyou (2) 
+
+[10/10/2022 20:22] Franfran#5067
+Was a fun contest
+
+
+[10/10/2022 20:25] pedr02b2
+im still very much learning and working from notes still etc but I did enjoy this one
+
+
+[10/10/2022 20:45] koolexc
+This was my first contest too. 👌
+Thank you everyone for your efforts
+
+
+[10/10/2022 21:00] adriro
+Indeed, very well written code! Had lot of fun, a bit more of documentation would have been nice though 😅
+
+
+[10/10/2022 23:15] trust90
+Good code guys! Had fun auditing this one
+
+
+[10/10/2022 23:58] 0x4non
+me too! was fun!
+
+
+[10/11/2022 03:14] polymorphism#8144
+Thanks to everyone, was fun!
+
+
+[10/11/2022 03:33] dinesh11g
+Nice
+
+
+[10/11/2022 04:06] enckrish
+My second contest, it was nice to have such a well written code. 😌
+
+{Reactions}
+👍 
+
+[10/11/2022 05:29] dinesh11g
+have anyone used automated tools?
+
+
+[10/11/2022 08:45] Franfran#5067
+Usually useless
+
+{Reactions}
+💯 
+
+[10/11/2022 08:46] jayphbee
+agree
+
+
+[10/11/2022 08:46] dinesh11g
+How do u all do, by manual?
+
+{Reactions}
+👍 
+
+[10/11/2022 08:46] Franfran#5067
+Ye
+
+
+[10/11/2022 09:03] dinesh11g
+which programming language u all have learnt mate?
+
+
+[10/11/2022 09:58] elku.cryptos
+hey can you move this kind of discussions to #😃chat , #🌳everything-evm or #🐺wardens etc.. keep only blur contest-specific discussion here.
+
+{Reactions}
+👍 
+
+[10/11/2022 10:01] dinesh11g
+ok
+
+
+[10/12/2022 07:57] patricksfeir
+same here, found a couple of gas optimization. I really enjoyed reading the code
+
+
+[10/12/2022 09:01] saksham#7993
+Nice man , all the best ! yeah the code was very clean indeed
+
+
+[10/20/2022 01:03] ladboy233
+blur market is already up？
+
+{Reactions}
+👍 (2) 
+
+[10/20/2022 01:04] ladboy233
+
+
+{Attachments}
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/IMG_9465-013CF.png
+
+
+[10/20/2022 01:04] ladboy233
+will reward  be announced soon？
+
+
+[10/20/2022 01:40] alextheentreprenerd
+I'm judging would expect 2 weeks as usual
+
+{Reactions}
+❤️ (15) 
+
+[10/20/2022 02:35] jayphbee
+🎉
+
+
+[10/28/2022 15:05] jayphbee
+It seems that blur is open sourced.
+https://etherscan.io/address/0x031aa05da8bf778dfc36d8d25ca68cbb2fc447c6#code
+
+{Embed}
+https://etherscan.io/address/0x031aa05da8bf778dfc36d8d25ca68cbb2fc447c6
+BlurExchange | Address 0x031aa05da8bf778dfc36d8d25ca68cbb2fc447c6 |...
+The Contract Address 0x031aa05da8bf778dfc36d8d25ca68cbb2fc447c6 page allows users to view the source code, transactions, balances, and analytics for the contract address. Users can also interact and make transactions to the contract directly on Etherscan.
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/etherscan-logo-circle-A29B1.jpg
+
+
+[10/28/2022 15:06] alextheentreprenerd
+Yes, the sponsor chose to check the findings and launch before judging / report published
+
+
+[10/28/2022 15:09] jayphbee
+Nice to see my finding is accepted.
+
+{Reactions}
+🎉 
+
+[10/28/2022 15:21] saksham#7993
+Is there any possible ETA for the rewards
+
+
+[10/28/2022 15:41] alextheentreprenerd
+Soon ™
+
+{Reactions}
+yay (4) 
+
+[10/29/2022 01:15] alextheentreprenerd
+Think we'll send to Triage on Wednesday/Thursday
+
+{Reactions}
+👍 (3) ❤️ 
+
+[10/29/2022 02:27] ladboy233
+you are awesome. penalty does not apply to this one，does it？
+
+
+[10/29/2022 02:42] rohan16
+it doesn't according to the dates when the rules were declared only gradings are applicable for this on
+
+
+[10/29/2022 02:42] rohan16
+and from traderjoe all the rules are valid
+
+
+[11/03/2022 22:23] alextheentreprenerd
+Will need a few extra days as I got sick, it's not far away from done, just gotta grind it out and need to recoup first
+
+{Reactions}
+❤️ (20) 🍀 (4) peepoHug (2) C4Keycap (2) 🍵 (3) 
+
+[11/03/2022 22:33] ladboy233
+take care！
+
+
+[11/03/2022 22:33] ladboy233
+hope you recover soon
+
+
+[11/03/2022 23:07] olivierdem
+Get well! I'm not too familiar with the process, how long is Triage and what comes after? Thanks
+
+
+[11/04/2022 10:02] zzykxx
+take care, all your work is greatly appreciated
+
+{Reactions}
+👆 💯 (4) 
+
+[11/08/2022 15:40] xyzbtchunt
+How many weeks will the prize be announced?
+
+
+[11/11/2022 16:32] koolexc
+Is there any estimation for when the result will be announced?
+
+
+[11/11/2022 16:33] koolexc
+@Alex The Entreprenerd hope you're feeling better 🍀
+
+
+[11/14/2022 00:27] xyzbtchunt
+when is the announcement out
+
+
+[11/14/2022 00:48] alextheentreprenerd
+Have asked to send to Triage, hopefully done soon
+
+{Reactions}
+❤️ (6) 
+
+[11/16/2022 07:39] saksham#7993
+How long does the triaging process take?
+
+{Reactions}
+🤔 
+
+[11/16/2022 07:41] pfapostol
+long enough lately
+
+{Reactions}
+😰 (2) 
+
+[11/16/2022 09:42] yongkiws
+please be patient
+
+
+[11/18/2022 14:01] 0x4non
+Any ETA for the final prices awards?
+
+
+[11/18/2022 14:43] ch_301
+https://discord.com/channels/810916927919620096/810916927919620099/1042654011922337802
+
+
+[11/18/2022 14:54] alextheentreprenerd
+Not sure but judging is done
+
+{Reactions}
+🎉 (8) 
+
+[11/22/2022 01:25] chaduke3730
+maybe tomorrow? My first project is traderjoe though
+
+{Reactions}
+🫡 
+
+[11/22/2022 22:26] koolexc
+👀
+
+{Reactions}
+👀 (3) 
+
+[11/22/2022 22:58] ladboy233
+👀
+
+{Reactions}
+👀 (2) 
+
+[11/23/2022 00:50] itsmetechjay
+🤑 🎉 Awards for **Blur**: 
+
+$3,283.98 USDC » @Soosh 
+$3,094.50 USDC » @anon 
+$3,002.10 USDC » @d3e4 
+$2,969.45 USDC » @Rotcivegaf 
+$2,969.45 USDC » @Trust 
+$2,887.28 USDC » @0x1f8b 
+$2,603.11 USDC » @arcoun 
+$2,603.11 USDC » @RustyRabbit 
+$2,585.28 USDC » @Ruhum 
+$2,585.28 USDC » @saian 
+$2,552.63 USDC » @0xc0ffEE 
+$2,552.63 USDC » @minhtrng 
+$2,520.94 USDC » @RaymondFam 
+$2,470.46 USDC » @sakshamguruji 
+$2,437.81 USDC » @cccz 
+$1,239.39 USDC » @IllIllI 
+$632.75 USDC » @code-cipher 
+$531.64 USDC » @0xladboy | Sparkware 
+$531.64 USDC » @nicobevi.eth 
+$416.82 USDC » @brgltd 
+$416.82 USDC » @Rolezn 
+$197.95 USDC » @enckrish 
+$197.95 USDC » @Roman 
+$165.31 USDC » @csanuragjain 
+$165.31 USDC » @PENGUN 
+$165.31 USDC » @zzykxx 
+$149.27 USDC » @dipp 
+$147.47 USDC » @rvierdiiev 
+$114.82 USDC » @0x52 
+$114.82 USDC » @0xRobocop 
+$114.82 USDC » @8olidity 
+$114.82 USDC » @aviggiano 
+$114.82 USDC » @bardamu 
+$114.82 USDC » @Ch_301 
+$114.82 USDC » @cryptonue 
+$114.82 USDC » @hansfriese 
+$114.82 USDC » @jayphbee 
+$114.82 USDC » @Jeiwan 
+$114.82 USDC » @joestakey 
+$114.82 USDC » @Junnon 
+$114.82 USDC » KIntern_NA (@TrungOre, @duc)
+$114.82 USDC » M4TZ1P (@DekaiHako, @0xDanielH, @Zer0Luck, @AAIIWITF, @PENGUN)
+$114.82 USDC » @MiloTruck 
+$114.82 USDC » @minhquanym 
+$114.82 USDC » @Nyx 
+$114.82 USDC » @obront 
+$114.82 USDC » @PaludoX0 
+$114.82 USDC » @polymorphism 
+$114.82 USDC » @rokinot 
+$114.82 USDC » @romand 
+$114.82 USDC » @serial-coder 
+$114.82 USDC » @TomJ 
+$114.82 USDC » @trustminimised 
+$83.13 USDC » @0xNazgul 
+$83.13 USDC » @0xSmartContract 
+$50.48 USDC » @bin2chen 
+$50.48 USDC » @Deivitto 
+$50.48 USDC » @simon135 
+$50.48 USDC » @rbserver 
+$32.65 USDC » @Heuss 
+$32.65 USDC » @ReyAdmirado 
+$32.65 USDC » @gogo 
+$32.65 USDC » @mcwildy 
+$32.65 USDC » @sakman 
+$32.65 USDC » @pedr02b2 
+$32.65 USDC » @__141345__ 
+$32.65 USDC » @pfapostol 
+$32.65 USDC » @neko_nyaaaaaaaaaaaaaaaaaaaaaaaaa 
+$32.65 USDC » @ret2basic.eth 
+$32.65 USDC » @Shishigami 
+$32.65 USDC » @gkrastenov 
+$32.65 USDC » @ch0bu 
+$32.65 USDC » @lucacez 
+$32.65 USDC » @c3phas 
+$32.65 USDC » @cryptostellar5 
+$32.65 USDC » Shinchan (@Sm4rty, @Prasant Gupta, @Rohan)
+$32.65 USDC » @adriro 
+$32.65 USDC » @Pheonix 
+$32.65 USDC » @ajtra 
+$32.65 USDC » @medikko 
+
+🏁 Findings summary
+---------------------------
+High risk findings: 45 total, 1 unique
+Med risk findings: 15 total, 1 unique
+Gas optimization reports: 34 
+QA reports: 24
+
+Awards will be distributed on Polygon within the next 1-2 weeks. Congratulations all! 💸 💸 💸
+
+*Note: If you participated in this contest and don’t see your name on this list, please wait until the report is published and the findings repo is made public to check on your submissions.*
+
+{Reactions}
+🎉 (7) 
+
+[11/23/2022 01:20] jayphbee
+where can i find which of my finding are accepted?
+
+
+[11/23/2022 01:25] yongkiws
+there is no my name above , where i can see finding accepted??
+
+{Attachments}
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/Screenshot_20221123-081040_Gmail-D0A34.jpg
+
+
+[11/23/2022 01:25] 0x4non
+I'm crying!
+
+{Reactions}
+😂 
+
+[11/23/2022 01:25] enckrish
+Only 1 H and M 😯
+
+
+[11/23/2022 01:26] enckrish
+Congrats! 🥳
+
+
+[11/23/2022 01:26] soosh4618
+damnn first time first.
+
+{Reactions}
+hi5 (6) 🔥 (5) 
+
+[11/23/2022 01:26] soosh4618
+did not expect at all
+
+
+[11/23/2022 01:27] raymondfam
+My 2nd M accepted in a row. One more to be backstage bound...😋
+
+
+[11/23/2022 01:27] jayphbee
+@Alex The Entreprenerd can i DM ?
+
+
+[11/23/2022 01:30] alextheentreprenerd
+Sure
+
+
+[11/23/2022 01:40] jayphbee
+DMed.
+
+
+[11/23/2022 01:49] birdy0219
+Dam nothing from 3 reports
+
+
+[11/23/2022 01:49] alextheentreprenerd
+You have shown great improvements though, don't quit yet!
+
+
+[11/23/2022 01:51] alextheentreprenerd
+Honestly was high quality stuff, just needs more findings
+
+
+[11/23/2022 01:51] birdy0219
+Oh I'm not, this audit was early last month, still working on it. Was glad to participate in a consensys diligence bootcamp through secureum race results and want to start applying that knowledge, so I'm not 100% manual brain work
+
+
+[11/23/2022 01:52] birdy0219
+What did you think of the gas report? Done a few optimisation reports like that since, so guessing they haven't scored well either
+
+
+[11/23/2022 01:53] alextheentreprenerd
+One of the most unique reports, but needs more savings, just add some of the more bread and butter stuff or make sure you're saving disproportionate amounts of gas
+
+
+[11/23/2022 01:54] alextheentreprenerd
+You basically missed a big savings, else you'd have prob written the best report
+
+
+[11/23/2022 01:54] alextheentreprenerd
+Def go check when the report is out
+
+
+[11/23/2022 01:55] birdy0219
+Will do cheers 🙂
+
+
+[11/23/2022 01:58] birdy0219
+Though 2x potential 20k gas savings is a bit :kek:
+
+
+[11/23/2022 01:59] birdy0219
+On-wards and upwards 🚀
+
+
+[11/23/2022 01:59] yongkiws
+stay grateful friends, we are still given health keep the spirit
+
+
+[11/23/2022 02:00] trustminimised
+@Alex The Entreprenerd thanks for powering through this one. I look forward to the report being public.
+
+{Reactions}
+cheers_badger 💯 
+
+[11/23/2022 02:20] pfapostol
+With the new system, it's weird to see 1 point for gas optimizations, before it often was 100, but now I'm probably behind the times, I'll wait for the report to study new techniques.
+
+
+[11/23/2022 02:32] alextheentreprenerd
+You want to keep in mind that we always prio runtime gas savings, ultimately the protocol spent 50k, they can spend 1k if it saves 10 USD per every person using the protocol
+
+
+[11/23/2022 02:35] birdy0219
+Good point, I was curious if there was a priority between the two, personally I agree, spend more at deployment to save the end users fees
+
+
+[11/23/2022 02:42] olivierdem
+Same, no mention of my name..
+
+
+[11/23/2022 02:46] yongkiws
+Your report means it was not accepted, I hope a detailed report appears soon. so that those who enter the contest know and learn where they went wrong
+
+
+[11/23/2022 02:48] olivierdem
+Why would even my basic gas saving findings not be accepted? I’m confused but want to learn from my mistakes. Just need to understand what I did wrong in order to learn
+
+
+[11/23/2022 02:58] alextheentreprenerd
+Sent a DM with note
+
+
+[11/23/2022 03:05] 0x4non
+hi, got a link for joining consensys bootcamp?
+
+
+[11/23/2022 03:07] birdy0219
+It was reward for coming top 16 in the last Secureum RACE
+
+{Reactions}
+💯 
+
+[11/23/2022 03:08] birdy0219
+Next race starts in a week, not sure the top placing reward
+
+
+[11/23/2022 05:17] .satyam_
+Hello I have submitted findings for this contest but my name didin't displayed on award list neither in here nor in art gobblers contest,why it is so????
+
+{Reactions}
+same 
+
+[11/23/2022 05:17] .satyam_
+I will be providing a screenshot of my findings that I have submitted to blur contest
+
+
+[11/23/2022 05:17] .satyam_
+
+
+{Attachments}
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/Screenshot_20221123-104551-FA5B2.png
+
+
+[11/23/2022 05:19] .satyam_
+Please explain as soon as possible. It's very annoying to me
+
+
+[11/23/2022 05:36] c3phas.
+Most likely your findings were marked invalid/unsatisfactory, as the announcement says if your name isn't there you'll have to wait for the report to be made public so that you can find out the judges comments
+
+
+[11/23/2022 05:37] .satyam_
+but why??
+
+
+[11/23/2022 05:38] .satyam_
+the same findings that i have submitted were from reports that were already published and are accepted.
+
+
+[11/23/2022 05:39] c3phas.
+Rules changed , see this https://discord.com/channels/810916927919620096/1021427553900175411/1044586690200743956
+
+{Reactions}
+🧐 (2) 
+
+[11/23/2022 06:36] rokinot
+i've never seen a reward distribution for a contest like this before lol
+
+{Reactions}
+👍 
+
+[11/23/2022 06:36] rokinot
+guess it's fair though since ther were only 1 high and 1 medium
+
+
+[11/23/2022 06:42] .satyam_
+does the report published?
+
+
+[11/23/2022 06:44] rokinot
+not yet
+
+
+[11/23/2022 06:46] rokinot
+given the low amount of vulnerabilities though, i'd assume it wouldn't take too long for it to be published, although the inner mechanics of report writing is a mystery for us yellow wardens............
+
+
+[11/23/2022 07:46] saksham#7993
+This was my first contest and im top 15😎
+
+{Reactions}
+kongchest (4) 
+
+[11/23/2022 07:53] arcoun.
+@Jay | C4 This was not announced on the #📢announcements channel
+
+{Reactions}
+checkmark 
+
+[11/23/2022 08:01] birdy0219
+Out of interest I wonder if there will be stats on # of reports scrubbed under the new metrics
+
+
+[11/23/2022 08:05] rustyrabbit
+Without backstage access, is there a way to see your invalid reports? As a way to improve yourself to see what you did wrong ? Even after the report is released, because as far as I know you can only see valid findings.
+
+
+[11/23/2022 09:19] koolexc
+Same question here
+
+
+[11/23/2022 09:23] 0xsorrynotsorry
+There is no way to see your submission prior to the report unless you have the backstage role. And if you want to see the status of all your submissions, you can check the contest GH repo in data view and check your handle. Here is an **example**: https://github.com/code-423n4/2022-09-nouns-builder-findings/tree/main/data
+@Koolex 
+Also please be reminded that the Judges can invalidate findings without adding a comment at the submission page.
+
+
+[11/23/2022 09:26] koolexc
+Thank you. It's my first contest and I would like to learn from my mistakes. 
+I know for sure there was at least 1 issue totally wrong, couldn't withdraw it. Was too late.
+
+
+[11/23/2022 09:27] koolexc
+So I can see what was invalid regardless of the comments? From what I understand
+
+
+[11/23/2022 09:35] 0xsorrynotsorry
+Yes, you can see all your submissions and the status being invalidated, downgraded, or upgraded.
+
+
+[11/23/2022 09:37] koolexc
+thank you! . maybe I am missing something here. 
+trying to access this https://github.com/code-423n4/2022-10-blur-findings/tree/main/data
+but it gives 404. is my link wrong?
+
+
+[11/23/2022 09:39] 0xsorrynotsorry
+Yeah, what I mean is you can only see those after the report. The repo will be in public status then. (now in private)
+
+{Reactions}
+thankyou (2) 
+
+[11/23/2022 09:40] koolexc
+Gotcha 👍🏻 . I misunderstood. will check it once it's public.
+
+{Reactions}
+hi5 
+
+[11/23/2022 10:12] seyni#0562
+I submitted reports but my submissions are not on the data folder, is that normal ?
+
+
+[11/23/2022 10:13] 0xsorrynotsorry
+DM'ed.
+
+
+[11/23/2022 10:50] carlitox477
+Pretty sad that none of my reports where considered as valid 😢
+
+
+[11/23/2022 10:50] .satyam_
+Same here bro none r considered valid don't know why
+
+
+[11/23/2022 10:51] carlitox477
+I really thought I found some little things
+
+
+[11/23/2022 10:51] .satyam_
+What issues u have submitted like gas/qa/medium
+
+
+[11/23/2022 10:52] Junnon#3182
+my first high
+
+
+[11/23/2022 10:52] Junnon#3182
+thanks judgee
+
+
+[11/23/2022 10:56] carlitox477
+Gas, QA and 1 medium which I consider it was going to be accepted D:
+
+
+[11/23/2022 10:57] carlitox477
+I guess I still have lot to learn 😸
+
+
+[11/23/2022 11:00] .satyam_
+Mee too same brother 😂
+
+
+[11/23/2022 11:05] carlitox477
+I've just realised this, now I feel less bad. It was definitely a tough contest
+
+
+[11/23/2022 11:22] yongkiws
+Now only medium and high?
+
+
+[11/23/2022 11:55] enckrish
+It was a superbly written codebase
+
+
+[11/23/2022 13:46] ladboy233
+very evenly distributed reward
+
+
+[11/23/2022 14:28] adriro
+@Alex The Entreprenerd can I dm 🙏 ?
+
+
+[11/23/2022 14:33] 0x_serial_coder
+@Alex The Entreprenerd I dm'ed you 🙏
+
+
+[11/23/2022 14:35] codingnamekiki
+🙏
+
+{Reactions}
+🙏 (2) 
+
+[11/23/2022 14:35] alextheentreprenerd
+Having a hard time as I cannot answer all the DMs
+
+The TL;DR is:
+- Did you code the exploit? 
+- Did you just point to it or show a real attack?
+
+And lastly, did you send enough findings of enough quality to offer a good report to the sponsor
+
+If you didn't do one of these, you should always do it until you're good enough to skip some of it
+
+Will eventually reply
+
+{Reactions}
+❤️ (8) 👍 (3) chefskiss (2) 
+
+[11/23/2022 14:46] rustyrabbit
+So QA report really needs to be a sizable list of findings, 'or else don't bother'?
+
+
+[11/23/2022 14:47] alextheentreprenerd
+The best QA or don't bother
+
+
+[11/23/2022 14:47] alextheentreprenerd
+No middle of the pack
+
+
+[11/23/2022 14:48] alextheentreprenerd
+Either the sponsor can be like: "Wow this report is great" or why would we even show it to them
+
+{Reactions}
+👍 
+
+[11/23/2022 14:52] rustyrabbit
+I've reported small stuff in the past in QA where I didn't really expect much of a reward for it, but thought it would be useful for the sponsor to have a full list of small items where no one will have them all but between all wardens combined you'd have a comprehensive list.
+Good to know that effort isn't needed.
+
+{Reactions}
+👍 (2) 
+
+[11/23/2022 14:55] chaduke3730
+congrats too all.
+
+
+[11/23/2022 14:55] chaduke3730
+I am looking forward to my first - traderjoe
+
+
+[11/23/2022 14:56] pfapostol
+Some wardens spend the entire time of the contest putting together the huge, high-quality report. And it's a bit of a shame that their bounty was smaller due to a lot of low quality reports, with 1-2 findings.
+
+{Reactions}
+👍 
+
+[11/23/2022 14:59] neko_nyaa
+I agree with this one, sometimes I like to put together small reports for a list of useful things that can be overlooked at well (e.g. clearly low severity, but unique findings).
+
+Historically C4 has used traditional submitting for low findings, also rewarding unique findings in the process (with the same decay formula as well). There are some reports where the quality of it comes from the findings itself, but not its full content.
+
+I do agree though is that only the reports that stands out on its own should be grade A, and anything that shows full effort and reasonable quality is at least grade B, and coming from backstage I can tell that some judges share the same view.
+
+
+[11/23/2022 15:01] neko_nyaa
+It may be helpful to introduce some mechanism where multiple reports are selected (e.g. for its overall quality, or for some of its unique issues), not for rewarding, but simply for curating the best possible QA report coming from everyone's input
+
+
+[11/23/2022 15:02] neko_nyaa
+e.g. grade A reports combined or such, or anything that the sponsors commented helpful
+
+
+[11/23/2022 15:15] rustyrabbit
+This probably sounds harsh, but I feel like QA reports aren't worth the effort, especially if you take into account the risk to other findings with new penalty system. 
+Although I don't really have visibility on how much a good QA report is rewarded. I'm just going by the numbers I see.
+
+{Reactions}
+👍 
+
+[11/23/2022 15:20] c3phas.
+Fyi QA always has a bigger budget compared to Gas. The issue is mostly people focus on non critical issues and less on low findings
+
+
+[11/23/2022 15:21] pfapostol
+for the best report now you can get about +-$1000 depending on the pool
+
+
+[11/23/2022 15:21] c3phas.
+If you look at the winning reports,the quality is extremely high,the border of some of their findings in relation to mediums is quit small
+
+
+[11/23/2022 15:23] rustyrabbit
+ok $1000 is very decent, but if it's only the best QA report that gets it then the effort of the other 30 wardens is futile.
+
+
+[11/23/2022 15:25] pfapostol
+the situation when many wardens who did not put an effort received rewards was worse. IMHO.
+
+
+[11/23/2022 15:26] rustyrabbit
+The new approach will probably/hopefully rectify that situation.
+
+
+[11/23/2022 15:27] pfapostol
+now it is true contest, it must be competitive. And hard enough to justify the payouts.
+
+
+[11/23/2022 15:28] cloudellie
+Can I request that you move this discussion to another channel? This channel is intended for discussions specific to the Blur contest.
+
+{Reactions}
+👍 (3) 
+
+[11/23/2022 15:28] cloudellie
+Thanks!
+
+
+[12/06/2022 19:33] 0xrob
+With Blur bids now live, when can we expect the report?
+
+
+[12/06/2022 19:41] alextheentreprenerd
+Code for Bids was not part of this contest, am not aware of any audit for that code, don't have insight into when the report will be out
+
+{Reactions}
+👍 
+
+[12/08/2022 09:09] gosoul22
+when can we expect the report?
+
+
+[12/09/2022 15:18] 0xbtk
+https://code4rena.com/reports/2022-10-blur
+
+{Embed}
+https://code4rena.com/reports/2022-10-blur
+Blur Exchange contest
+Hack DeFi. Compete. Get paid.
+
+
+[12/09/2022 15:49] soosh4618
+Why is https://github.com/code-423n4/2022-10-blur-findings/issues/241 marked as QA?  Shouldn't this be a Med at least?
+
+Only difference from https://github.com/code-423n4/2022-06-infinity-findings/issues/43 is that it requires a user to select the "wrong" policy.
+
+Feels like a huge downgrade for a valid risk
+
+
+[12/09/2022 16:41] alextheentreprenerd
+Your submission about the amount being 1 was awarded here:
+https://github.com/code-423n4/2022-10-blur-findings/issues/236
+
+The other submission was interpreted for the ability to use different policies, which is something that the end user can do. This is logically equivalent to a person sending tokens to a random address. 
+
+It's their power to do so, an for those cases we refer to this rule:
+https://github.com/code-423n4/org/issues/53
+
+The only alternative was to mark your 2 submissions as dup of each other per this: https://github.com/code-423n4/org/issues/8
+
+So I technically took your side, but in computing the QA it didn't get enough point
+
+
+[12/09/2022 16:50] ladboy233
+Yeah Alex is really nice and always takes the Warden side (he really does. Appreciate it).
+
+
+[12/09/2022 16:51] ladboy233
+💯
+
+
+[12/09/2022 17:34] soosh4618
+Just to be clear, I'm not complaining, just confused. 
+
+This finding is a totally different issue from the amount=1 issue. If issue 236 is fixed, issue 241 is still present. 
+
+Issue 236 is about ERC1155 transfers being fixed to 1.
+Issue 241 is about ERC1155 transfer being treated as ERC721 transfer.
+
+I don't think its duplicate as fixing one issue does not fix the other.
+
+Also with regards to user error - this isn't like sending tokens to a random address. It is a very simple mistake for a non-technical user to make, it requires the trader to know that their ASSET token supports both ERC721 and ERC1155 in order to not make such a mistake.
+
+From: https://docs.code4rena.com/awarding/judging-criteria, "Low risk (e.g. assets are not at risk: state handling, function incorrect as to spec, issues with comments)". I definitely disagree that the finding would be classified under this.
+
+
+[12/09/2022 17:40] soosh4618
+https://github.com/code-423n4/2022-10-blur-findings/issues/240 was also marked dupe of 666. I'm unsure of how it should really be classified, **the issue exists only if another issue is fixed**.  This is more of one vulnerability preventing another vulnerability? If fixing the first will allow the other vulnerability to occur.
+
+
+[12/09/2022 20:00] alextheentreprenerd
+What do you think is the impact if they use the wrong policy?
+
+
+[12/10/2022 01:37] soosh4618
+I'd consider it loss of funds since the trader receives less than expected. It would appear as though they were buying N tokens on the UI and on metamask with the amount of N, but they only receive 1 after the tx
+
+
+[12/10/2022 01:43] alextheentreprenerd
+If I interpreted it that way, then I would have marked it as the dup of 666
+
+If you send the dup of the same issue twice it's not counted for awarding
+
+
+[12/10/2022 01:43] alextheentreprenerd
+Only 1 instance would be counted
+
+
+[12/10/2022 01:48] soosh4618
+But I don't get why its dupe! These are different ways to achieve loss of funds impact. I think the issues are different because the method of exploitation, and recommendations for fix are also different. If we go by impact only, then wardens are only able to be awarded for one type of impact per contest?
+
+
+[12/10/2022 01:59] alextheentreprenerd
+You can read a pretty nuanced discussion on this specific topic here:
+https://github.com/code-423n4/org/issues/8
+
+
+[12/10/2022 02:01] alextheentreprenerd
+You can also read my exact reason to the above, which doesn't just apply to you but to the finding of Token that is both 1155 and 721 here:
+https://github.com/code-423n4/2022-10-blur-findings/issues/241#issuecomment-1295661178
+
+
+[12/10/2022 02:52] birdy0219
+Alex can I DM you?
+
+
+[12/10/2022 02:55] birdy0219
+Disregard, finally worked out how to find my feedback, thank you for taking the time to comment
+
+
+[12/10/2022 03:53] soosh4618
+I guess the point of disagreement is that you found the findings to be similar and I think they are different.
+https://github.com/code-423n4/org/issues/8 - The examples given here are mostly some pattern being found in multiple areas of code should be bulked.
+E.g. The pattern of "Lack of address(0) check" in multiple areas of the codebase should be submitted as one finding
+
+I chose to separate my finding - 236, 241 because they have a **different pattern** and **different recommendations for fix**.
+
+The recommendation for 666 is _"Policies used for ERC1155 tokens should return and consider the amount of tokens set for the order."_  Which would not have fixed 241. If I had bulked 241 and 236, and it gets marked dupe of 666, sponsor would only see 666 recommendation and not 241.
+
+The fix for issue 241 is in `StandardPolicyERC721` not in `StandardPolicyERC1155`
+
+Unpatched (contest code):
+https://github.com/code-423n4/2022-10-blur/blob/main/contracts/matchingPolicies/StandardPolicyERC721.sol#L12-L36
+Deployed:
+https://etherscan.io/address/0x00000000006411739DA1c40B106F8511de5D1FAC#code
+
+```
++ (makerAsk.amount == 1) &&
++ (takerBid.amount == 1) &&
+```
+
+If the sponsor only implemented the recommendation in issue 666, they would have missed out on this fix and would still be vulnerable to 241.
+
+I do agree 240 and 236 be bulked but 241 definitely isn't similar to 666.
+
+Anyways, I do respect your time so I won't push this further.
+
+{Reactions}
+👀 
+
+[12/10/2022 10:37] neumoxx
+I agree with you and suffered a similar situation in another contest, where the fix and pattern of the issue my report was marked as duplicate of was clearly different, and the fix for one didn’t solve the other. In my case the judge deliberated and decided to mark it as a duplicate. A bit frustrating, tbh, I think there should be a revision of these way of judging.
+
+
+[12/11/2022 12:06] 0x_serial_coder
+@Alex The Entreprenerd Hello sir, this was my first contest, and I got some naive questions.
+
+Q1: 
+
+My finding (https://github.com/code-423n4/2022-10-blur-findings/issues/739) was downgraded to NC, as highlighted in the figure #1. But I cannot figure out the reason behind this action in the Readme you were referring to or anywhere else. 
+
+Could you please elaborate more on this?
+
+Q2: 
+
+What criteria for selecting which findings should be tagged `invalid` and/or `unsatisfactory`? 
+
+As per the figure #2, that finding was also downgraded to NC, but it was not tagged with `invalid` or `unsatisfactory`.
+
+Q3: 
+
+In case the finding is downgraded to NC but not tagged with `invalid` or `unsatisfactory` like the Q2, that finding would be eligible for awarding?
+
+Q4: 
+
+From the C4 docs (figure #3), they state the following: `Wardens overstating the severity of QA issues (submitting low/non-critical issues as med/high in order to angle for higher payouts) will have their scores reduced by judges.`.
+
+Does that mean if my findings were flagged `invalid` or `unsatisfactory`, I would get a penalty on calculating the award?
+
+I mean, the more invalid findings I get, the more penalty points will affect my award, right?
+
+Q5: 
+
+From the competitive result (figure #4), I cannot catch up with the exact formula used to calculate the award for each warden, as many wardens got the same findings, but they got pretty different awards.
+
+Where can I find the specs of this awarding formula? (The C4 docs cannot answer this question)
+
+Thanks for your time. I really appreciate your contribution. 🙏
+
+{Attachments}
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/Screen_Shot_2565-12-11_at_18.01.59-3E8E4.png
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/Screen_Shot_2565-12-11_at_18.23.43-AABC6.png
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/Screen_Shot_2565-12-11_at_18.32.11-5A56B.png
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/Screen_Shot_2565-12-11_at_18.42.58-765D9.png
+
+{Embed}
+https://github.com/code-423n4/2022-10-blur-findings/issues/739
+Potentially Stealing All NFTs Listed To Exchange For ERC-20 Token ·...
+Lines of code https://github.com/code-423n4/2022-10-blur/blob/2fdaa6e13b544c8c11d1c022a575f16c3a72e3bf/contracts/BlurExchange.sol#L511 https://github.com/code-423n4/2022-10-blur/blob/2fdaa6e13b544c...
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/739-71742
+
+
+[12/11/2022 15:17] alextheentreprenerd
+Q1: 
+I downgraded the finding relating to return value of ERC20 after Backstage (Post-Judging Triage) flagged to me that the token for the protocol is WETH (on mainnet) and it was explicitly stated in the Readme.
+
+For this reason you don't need to check the return value
+
+
+
+Q2: 
+The finding is downgraded, then your QA is scored, I score each QA that I don't scrap (not your case) via the following process:
+https://docs.google.com/document/d/1ZMVYBadmvgjxnqmLExi9pRE_qOAPtVELioZBf856qz8/edit?usp=sharing
+
+Q3: 
+
+If a finding is downgraded and valid, it's awarded with it's new severity. in the case of L / NC / R that would be QA
+
+Q4: 
+
+If I scrap your finding as insulting it should be obvious, that was not the case
+
+Q5: 
+
+See Q2, then check their QAs you'll see that the specific finding was just one of many others, which contributed to a stronger score for their QA report
+
+
+[12/11/2022 16:25] 0x_serial_coder
+Thanks for your answers. 🙏 
+
+But, I still don't understand the criteria for selecting which findings should be tagged `invalid` and/or `unsatisfactory`.
+
+Let's consider the following four findings (Figures #1 - #4) which were marked `duplicate`:
+
+- Finding #1 (https://github.com/code-423n4/2022-10-blur-findings/issues/772) was tagged `invalid` and `unsatisfactory`
+
+- Finding #2 (https://github.com/code-423n4/2022-10-blur-findings/issues/541) was tagged `invalid` and `unsatisfactory`
+
+Whereas,
+
+- Finding #3 (https://github.com/code-423n4/2022-10-blur-findings/issues/634) was neither tagged `invalid` nor `unsatisfactory`
+
+- Finding #4 (https://github.com/code-423n4/2022-10-blur-findings/issues/373) was neither tagged `invalid` nor `unsatisfactory`
+
+Does that mean the first two findings are not eligible for receiving awards, whereas the second two findings are eligible? 🙏
+
+{Attachments}
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/Screen_Shot_2565-12-11_at_23.02.19-B8F80.png
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/Screen_Shot_2565-12-11_at_23.02.37-9AB67.png
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/Screen_Shot_2565-12-11_at_23.02.52-C48F8.png
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/Screen_Shot_2565-12-11_at_23.03.07-47CCB.png
+
+
+[12/11/2022 16:27] alextheentreprenerd
+You would need to apply Q-2 to your own score vs the top report
+
+{Attachments}
+Code4rena - ARCHIVE-Q4-2022 - blur-oct5 [1026447675194880000].txt_Files/Screenshot_2022-12-11_at_17.27.28-62733.png
+
+
+[12/11/2022 16:29] alextheentreprenerd
+You got a 
+3L 1NC -> 16 points
+
+The best one got 58, I think I used less as the divisors but you can see that if you scored less than 50% I would close as C scored
+
+
+[12/11/2022 16:29] alextheentreprenerd
+as for the penalties, this is in discussion
+
+
+[12/11/2022 16:30] alextheentreprenerd
+I believe you may be the only warden that writes too much for some reports.
+But I don't think I would punish your submission, however for QA I only have the C score which also applies the Unsatisfactory label
+
+
+[12/11/2022 16:31] alextheentreprenerd
+Also please delete the Github Link preview it makes the thread harder to follow with no advantage
+
+
+[12/11/2022 16:40] 0x_serial_coder
+Thank you.
+
+
+[12/11/2022 16:42] alextheentreprenerd
+QA reports are judged as an aggregate, it's not on a finding by finding basis. This should explain why some are open and closed (despite being the same)
+
+{Reactions}
+👍 
+
+[12/11/2022 16:48] 0xdeadbeef0x
+@Alex The Entreprenerd is there a plan to share the score for each issue in the git?
+
+
+[12/11/2022 16:51] alextheentreprenerd
+All reports are scored at the bottom of the page, you can compare your score vs the top report and it should be trivial
+
+
+[12/11/2022 16:51] alextheentreprenerd
+In the future, once this aspect of judging is added to the extension if probably will be made available
+
+
+[12/11/2022 16:51] 0xdeadbeef0x
+Thanks!
+
+
+[02/25/2023 15:47] codeislight
+@toad can you dm me, i would like to share on some findings. Thanks!
+
+
+==============================================================
+Exported 325 message(s)
+==============================================================
